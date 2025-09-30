@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/6pC5T1mJ/Banner.png)
+![image](https://i.postimg.cc/137DY6Xt/LTBanner.png)
 
 Adjusts the edges of Soul and Copper Lanterns so they better match the regular Lantern. Little details matter!
 
@@ -17,7 +17,7 @@ Classic's Lantern Tweaks is only available on the platforms listed below. Please
 
 This simple pack adjusts the edges of Soul Lanterns (1.16+) and Copper Lanterns (1.21.9+) so they better match the style of the regular Lantern. It's a small detail, but it helps lanterns look more consistent and polished in your builds.
 
-![image](https://i.postimg.cc/xCN0DxMY/v3.gif)
+![image](https://i.postimg.cc/MHZFmVXS/Lanterns.gif)
 
 ## Versions
 
