@@ -5,13 +5,13 @@ Adjusts the edges of Soul and Copper Lanterns so they better match the regular L
 > [!TIP]
 > Looking for more small tweaks?
 > Try [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks) for subtly widened music discs,
-> or check out [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks) for improved dye textures.
+> or check out [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks) for improved dye textures!
 
 ## Downloads
 
 Classic's Lantern Tweaks is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the resource pack.
 
-[![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-lantern-tweaks)
+[![](https://img.shields.io/modrinth/dt/MWOyVipY?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-lantern-tweaks)
 
 ## Overview
 
