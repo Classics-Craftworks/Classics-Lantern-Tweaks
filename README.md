@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/137DY6Xt/LTBanner.png)
+![image](https://i.postimg.cc/q7YhhX66/LT-Final-Header.png)
 
 Adjusts the edges of Soul and Copper Lanterns so they better match the regular Lantern. Little details matter!
 
