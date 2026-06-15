@@ -23,8 +23,7 @@ This simple pack adjusts the edges of Soul Lanterns (1.16+) and Copper Lanterns 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.9 - 26.2-rc-2 | [v2.3.0-pre.1](https://modrinth.com/resourcepack/classics-lantern-tweaks/version/v2.3.0-pre.1) |
-| 1.21.9 - 26.1.2 | [v2.2.0](https://modrinth.com/resourcepack/classics-lantern-tweaks/version/v2.2.0) |
+| 1.21.9 - 26.1.2 | [v2.3.0](https://modrinth.com/resourcepack/classics-lantern-tweaks/version/v2.3.0) |
 | 1.20.2 - 1.21.8 | [v1.0.0](https://modrinth.com/resourcepack/classics-lantern-tweaks/version/v1.0.0) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-lantern-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Lantern-Tweaks/wiki/Versions).
