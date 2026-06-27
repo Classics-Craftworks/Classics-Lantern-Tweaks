@@ -1,6 +1,6 @@
 name: Question
 description: Ask a question
-type: Inquiry
+type: Question
 assignees:
   - Classsic36
 body:
